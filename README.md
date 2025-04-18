@@ -1,4 +1,4 @@
-# AI
+# AI Chat Bot
 # By using Next.js, assistant-ui, Google AI Studio and Vercel
 
 ![Image](https://github.com/user-attachments/assets/449afcd4-9122-4cf4-a87c-3ff428da7deb)
